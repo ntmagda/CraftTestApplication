@@ -1,0 +1,14 @@
+enableVersioning: true
+handle: how
+name: 'How to live?'
+propagationMethod: all
+siteSettings:
+  bd6718f0-f3f5-4faf-87b2-6a22a04f167a:
+    enabledByDefault: true
+    hasUrls: true
+    template: howToLive/structures/_how-to-live-entry
+    uriFormat: 'howToLive/{slug}'
+structure:
+  maxLevels: null
+  uid: 3856cbb7-248b-4c2f-8d5a-5577c86e34dc
+type: structure

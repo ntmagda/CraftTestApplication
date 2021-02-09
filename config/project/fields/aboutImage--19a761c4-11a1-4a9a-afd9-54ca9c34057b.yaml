@@ -1,0 +1,32 @@
+contentColumnType: string
+fieldGroup: 82c89757-b52b-4abf-8bac-ccd76ca48cbe
+handle: aboutImage
+instructions: 'Here is your face'
+name: 'About Image'
+searchable: false
+settings:
+  allowSelfRelations: false
+  allowUploads: true
+  allowedKinds:
+    - image
+  defaultUploadLocationSource: 'volume:880406d3-17ca-4f7f-8185-5d60c2372e99'
+  defaultUploadLocationSubpath: ''
+  limit: ''
+  localizeRelations: false
+  previewMode: full
+  restrictFiles: '1'
+  selectionLabel: ''
+  showSiteMenu: false
+  showUnpermittedFiles: false
+  showUnpermittedVolumes: false
+  singleUploadLocationSource: 'volume:3c609073-8e00-4a1c-bf94-fff4fe65d38b'
+  singleUploadLocationSubpath: ''
+  source: null
+  sources: '*'
+  targetSiteId: null
+  useSingleFolder: true
+  validateRelatedElements: false
+  viewMode: list
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Assets

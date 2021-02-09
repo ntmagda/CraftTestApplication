@@ -1,0 +1,18 @@
+contentColumnType: text
+fieldGroup: a4f34611-cecc-41b1-88b3-b8ce52b4d5b4
+handle: summary
+instructions: 'Here you have to put some content'
+name: Summary
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: ''
+  columnType: null
+  initialRows: '1'
+  multiline: '1'
+  placeholder: ''
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

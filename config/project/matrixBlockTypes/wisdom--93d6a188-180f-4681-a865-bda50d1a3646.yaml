@@ -1,0 +1,40 @@
+field: 775dda07-8154-483f-bdb1-d82912e54fd7
+fieldLayouts:
+  210e6f26-c78b-458a-aa49-6227b0045ef7:
+    tabs:
+      -
+        elements:
+          -
+            fieldUid: 4b257e9e-6a3e-4da2-a90c-7b0535808057
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+        name: Content
+        sortOrder: 1
+fields:
+  4b257e9e-6a3e-4da2-a90c-7b0535808057:
+    contentColumnType: text
+    fieldGroup: null
+    handle: wisdom
+    instructions: ''
+    name: 'Wisdom Sentence '
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: ''
+      columnType: null
+      initialRows: '1'
+      multiline: '1'
+      placeholder: 'Life is short'
+      uiMode: enlarged
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+handle: wisdom
+name: Wisdom
+sortOrder: 3

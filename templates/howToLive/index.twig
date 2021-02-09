@@ -1,0 +1,8 @@
+{% extends "_layout" %}
+
+{% set lifeTips = craft.entries.section('how').all() %}
+
+{% block content %}
+
+      {% include "blog/includes/listing" with { posts: lifeTips } only %}
+{% endblock %}

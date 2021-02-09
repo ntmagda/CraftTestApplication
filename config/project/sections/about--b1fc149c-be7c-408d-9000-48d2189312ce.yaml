@@ -1,0 +1,11 @@
+enableVersioning: true
+handle: about
+name: About
+propagationMethod: all
+siteSettings:
+  bd6718f0-f3f5-4faf-87b2-6a22a04f167a:
+    enabledByDefault: true
+    hasUrls: true
+    template: blog/singles/about
+    uriFormat: about
+type: single
